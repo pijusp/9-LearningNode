@@ -11,6 +11,15 @@
   "author": "Pijus",
   "license": "MIT",
   "devDependencies": {
-    "dead-server": "^1.0.9"
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "dead-server": "^1.0.9",
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard-with-typescript": "^31.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.32.1",
+    "typescript": "*"
   }
 }
