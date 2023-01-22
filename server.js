@@ -1,4 +1,4 @@
-const {add, subtract, divide, multiply} = require('./math');
+const { add, subtract, divide, multiply } = require('./math');
 
 console.log(add(2, 3));
 console.log(subtract(2, 3));
