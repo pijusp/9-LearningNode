@@ -1,0 +1,4 @@
+20230123	00:56:09	88c8a3d2-9eb6-4e0d-b755-b8be9007a241	/new-page	GET}
+20230123	00:56:09	cb8989e0-c766-488b-a459-b4d6281fec25	/css/style.css	GET}
+20230123	00:56:09	7b1ca55f-eca9-4726-b7b5-288b6ead1249	/img/meistolike.jpg	GET}
+20230123	00:56:09	7273fe24-09e8-46e3-b59d-1a53223498aa	/favicon.ico	GET}
